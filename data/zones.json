@@ -1,0 +1,309 @@
+{
+  "metadata": {
+    "source": "https://www.e-solat.gov.my/index.php?r=esolatApi/takwimsolat",
+    "snapshot_date": "2026-05-04",
+    "total_zones": 60
+  },
+  "zones": [
+    {
+      "zone": "JHR01",
+      "state": "Johor",
+      "location": "Pulau Aur dan Pulau Pemanggil"
+    },
+    {
+      "zone": "JHR02",
+      "state": "Johor",
+      "location": "Johor Bahru, Kota Tinggi, Mersing, Kulai"
+    },
+    {
+      "zone": "JHR03",
+      "state": "Johor",
+      "location": "Kluang, Pontian"
+    },
+    {
+      "zone": "JHR04",
+      "state": "Johor",
+      "location": "Batu Pahat, Muar, Segamat, Gemas Johor, Tangkak"
+    },
+    {
+      "zone": "KDH01",
+      "state": "Kedah",
+      "location": "Kota Setar, Kubang Pasu, Pokok Sena (Daerah Kecil)"
+    },
+    {
+      "zone": "KDH02",
+      "state": "Kedah",
+      "location": "Kuala Muda, Yan, Pendang"
+    },
+    {
+      "zone": "KDH03",
+      "state": "Kedah",
+      "location": "Padang Terap, Sik"
+    },
+    {
+      "zone": "KDH04",
+      "state": "Kedah",
+      "location": "Baling"
+    },
+    {
+      "zone": "KDH05",
+      "state": "Kedah",
+      "location": "Bandar Baharu, Kulim"
+    },
+    {
+      "zone": "KDH06",
+      "state": "Kedah",
+      "location": "Langkawi"
+    },
+    {
+      "zone": "KDH07",
+      "state": "Kedah",
+      "location": "Puncak Gunung Jerai"
+    },
+    {
+      "zone": "KTN01",
+      "state": "Kelantan",
+      "location": "Bachok, Kota Bharu, Machang, Pasir Mas, Pasir Puteh, Tanah Merah, Tumpat, Kuala Krai, Mukim Chiku"
+    },
+    {
+      "zone": "KTN02",
+      "state": "Kelantan",
+      "location": "Gua Musang (Daerah Galas Dan Bertam), Jeli, Jajahan Kecil Lojing"
+    },
+    {
+      "zone": "MLK01",
+      "state": "Melaka",
+      "location": "SELURUH NEGERI MELAKA"
+    },
+    {
+      "zone": "NGS01",
+      "state": "Negeri Sembilan",
+      "location": "Tampin, Jempol"
+    },
+    {
+      "zone": "NGS02",
+      "state": "Negeri Sembilan",
+      "location": "Jelebu, Kuala Pilah, Rembau"
+    },
+    {
+      "zone": "NGS03",
+      "state": "Negeri Sembilan",
+      "location": "Port Dickson, Seremban"
+    },
+    {
+      "zone": "PHG01",
+      "state": "Pahang",
+      "location": "Pulau Tioman"
+    },
+    {
+      "zone": "PHG02",
+      "state": "Pahang",
+      "location": "Kuantan, Pekan, Muadzam Shah"
+    },
+    {
+      "zone": "PHG03",
+      "state": "Pahang",
+      "location": "Jerantut, Temerloh, Maran, Bera, Chenor, Jengka"
+    },
+    {
+      "zone": "PHG04",
+      "state": "Pahang",
+      "location": "Bentong, Lipis, Raub"
+    },
+    {
+      "zone": "PHG05",
+      "state": "Pahang",
+      "location": "Genting Sempah, Janda Baik, Bukit Tinggi"
+    },
+    {
+      "zone": "PHG06",
+      "state": "Pahang",
+      "location": "Cameron Highlands, Genting Higlands, Bukit Fraser"
+    },
+    {
+      "zone": "PHG07",
+      "state": "Pahang",
+      "location": "Zon Khas Daerah Rompin, (Mukim Rompin, Mukim Endau, Mukim Pontian)"
+    },
+    {
+      "zone": "PLS01",
+      "state": "Perlis",
+      "location": "Kangar, Padang Besar, Arau"
+    },
+    {
+      "zone": "PNG01",
+      "state": "Penang",
+      "location": "Seluruh Negeri Pulau Pinang"
+    },
+    {
+      "zone": "PRK01",
+      "state": "Perak",
+      "location": "Tapah, Slim River, Tanjung Malim"
+    },
+    {
+      "zone": "PRK02",
+      "state": "Perak",
+      "location": "Kuala Kangsar, Sg. Siput , Ipoh, Batu Gajah, Kampar"
+    },
+    {
+      "zone": "PRK03",
+      "state": "Perak",
+      "location": "Lenggong, Pengkalan Hulu, Grik"
+    },
+    {
+      "zone": "PRK04",
+      "state": "Perak",
+      "location": "Temengor, Belum"
+    },
+    {
+      "zone": "PRK05",
+      "state": "Perak",
+      "location": "Kg Gajah, Teluk Intan, Bagan Datuk, Seri Iskandar, Beruas, Parit, Lumut, Sitiawan, Pulau Pangkor"
+    },
+    {
+      "zone": "PRK06",
+      "state": "Perak",
+      "location": "Selama, Taiping, Bagan Serai, Parit Buntar"
+    },
+    {
+      "zone": "PRK07",
+      "state": "Perak",
+      "location": "Bukit Larut"
+    },
+    {
+      "zone": "SBH01",
+      "state": "Sabah",
+      "location": "Bahagian Sandakan (Timur), Bukit Garam, Semawang, Temanggong, Tambisan, Bandar Sandakan, Sukau"
+    },
+    {
+      "zone": "SBH02",
+      "state": "Sabah",
+      "location": "Beluran, Telupid, Pinangah, Terusan, Kuamut, Bahagian Sandakan (Barat)"
+    },
+    {
+      "zone": "SBH03",
+      "state": "Sabah",
+      "location": "Lahad Datu, Silabukan, Kunak, Sahabat, Semporna, Tungku, Bahagian Tawau  (Timur)"
+    },
+    {
+      "zone": "SBH04",
+      "state": "Sabah",
+      "location": "Bandar Tawau, Balong, Merotai, Kalabakan, Bahagian Tawau (Barat)"
+    },
+    {
+      "zone": "SBH05",
+      "state": "Sabah",
+      "location": "Kudat, Kota Marudu, Pitas, Pulau Banggi, Bahagian Kudat"
+    },
+    {
+      "zone": "SBH06",
+      "state": "Sabah",
+      "location": "Gunung Kinabalu"
+    },
+    {
+      "zone": "SBH07",
+      "state": "Sabah",
+      "location": "Kota Kinabalu, Ranau, Kota Belud, Tuaran, Penampang, Papar, Putatan, Bahagian Pantai Barat"
+    },
+    {
+      "zone": "SBH08",
+      "state": "Sabah",
+      "location": "Pensiangan, Keningau, Tambunan, Nabawan, Bahagian Pendalaman (Atas)"
+    },
+    {
+      "zone": "SBH09",
+      "state": "Sabah",
+      "location": "Beaufort, Kuala Penyu, Sipitang, Tenom, Long Pasia, Membakut, Weston, Bahagian Pendalaman (Bawah)"
+    },
+    {
+      "zone": "SGR01",
+      "state": "Selangor",
+      "location": "Gombak, Petaling, Sepang, Hulu Langat, Hulu Selangor, S.Alam"
+    },
+    {
+      "zone": "SGR02",
+      "state": "Selangor",
+      "location": "Kuala Selangor, Sabak Bernam"
+    },
+    {
+      "zone": "SGR03",
+      "state": "Selangor",
+      "location": "Klang, Kuala Langat"
+    },
+    {
+      "zone": "SWK01",
+      "state": "Sarawak",
+      "location": "Limbang, Lawas, Sundar, Trusan"
+    },
+    {
+      "zone": "SWK02",
+      "state": "Sarawak",
+      "location": "Miri, Niah, Bekenu, Sibuti, Marudi"
+    },
+    {
+      "zone": "SWK03",
+      "state": "Sarawak",
+      "location": "Pandan, Belaga, Suai, Tatau, Sebauh, Bintulu"
+    },
+    {
+      "zone": "SWK04",
+      "state": "Sarawak",
+      "location": "Sibu, Mukah, Dalat, Song, Igan, Oya, Balingian, Kanowit, Kapit"
+    },
+    {
+      "zone": "SWK05",
+      "state": "Sarawak",
+      "location": "Sarikei, Matu, Julau, Rajang, Daro, Bintangor, Belawai"
+    },
+    {
+      "zone": "SWK06",
+      "state": "Sarawak",
+      "location": "Lubok Antu, Sri Aman, Roban, Debak, Kabong, Lingga, Engkelili, Betong, Spaoh, Pusa, Saratok"
+    },
+    {
+      "zone": "SWK07",
+      "state": "Sarawak",
+      "location": "Serian, Simunjan, Samarahan, Sebuyau, Meludam"
+    },
+    {
+      "zone": "SWK08",
+      "state": "Sarawak",
+      "location": "Kuching, Bau, Lundu, Sematan"
+    },
+    {
+      "zone": "SWK09",
+      "state": "Sarawak",
+      "location": "Zon Khas (Kampung Patarikan)"
+    },
+    {
+      "zone": "TRG01",
+      "state": "Terengganu",
+      "location": "Kuala Terengganu, Marang, Kuala Nerus"
+    },
+    {
+      "zone": "TRG02",
+      "state": "Terengganu",
+      "location": "Besut, Setiu"
+    },
+    {
+      "zone": "TRG03",
+      "state": "Terengganu",
+      "location": "Hulu Terengganu"
+    },
+    {
+      "zone": "TRG04",
+      "state": "Terengganu",
+      "location": "Dungun, Kemaman"
+    },
+    {
+      "zone": "WLY01",
+      "state": "Kuala Lumpur (FT)",
+      "location": "Kuala Lumpur, Putrajaya"
+    },
+    {
+      "zone": "WLY02",
+      "state": "Labuan (FT)",
+      "location": "Labuan"
+    }
+  ]
+}
